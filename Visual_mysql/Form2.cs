@@ -26,7 +26,7 @@ namespace Visual_mysql
             Form2.ActiveForm.Hide();
             Form1 Form112 = new Form1();
             Form112.Size = new Size(1920, 1080);
-            // Display the form in the center of the screen.
+            // Display the form in the center of the screen.saadas
             Form112.StartPosition = FormStartPosition.CenterScreen;
 
             Form112.ShowDialog();
